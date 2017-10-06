@@ -1,0 +1,1 @@
+$(function(){tinyMCE.baseURL=el_tpl_settings.editor_js_url;$("#tNotificationContent").tinymce({script_url:el_tpl_settings.editor_js_url+"tinymce.min.js",content_css:el_tpl_settings.editor_css_url+"style.css",toolbar:!1,menubar:!1,statusbar:!1,theme:"modern",resize:"both",skin:"light",readonly:!0})});

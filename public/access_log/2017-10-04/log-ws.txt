@@ -1,0 +1,1 @@
+172.17.0.1~~crud_select_mod_customer~~Webservice~~2017-10-04 06:05:59~~http://192.168.38.15:9003/test_project/WS/crud_select_mod_customer/~~Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36~~Linux~~Chrome~~a:2:{s:6:"method";s:3:"GET";s:3:"get";a:2:{s:10:"page_index";s:0:"";s:8:"ws_debug";s:1:"1";}}

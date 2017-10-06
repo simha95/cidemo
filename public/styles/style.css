@@ -1,0 +1,39 @@
+::selection{background-color:#E13300;color:white;}
+::moz-selection{background-color:#E13300;color:white;}
+::webkit-selection{background-color:#E13300;color:white;}
+body{font-family:Arial !important;font-size:12px;margin:0 auto;line-height:normal !important;}
+h1{color:#444;background-color:transparent;border-bottom:1px solid #D0D0D0;font-size:19px;font-weight:normal;margin:0 0 14px 0;padding:14px 15px 10px 15px;}
+h4{color:#0088CC !important;}
+a{color:#003399;background-color:transparent;font-weight:normal;}
+input, button, select, textarea{font-family:Arial, Helvetica, sans-serif !important;}
+div.err{padding:3px 4px 3px 4px;color:#c93605;font-weight:bold;text-shadow:0px 1px 1px rgba(164, 44, 4, 0.20);moz-text-shadow:0px 1px 1px rgba(164, 44, 4, 0.20);webkit-text-shadow:0px 1px 1px rgba(164, 44, 4, 0.20);font-size:11px;}
+form input.err{border:1px solid #ED7A53 !important;}
+form input.valid{border:1px solid #9FC569 !important;}
+#container{margin:10px;border:1px solid #D0D0D0;webkit-box-shadow:0 0 8px #D0D0D0;width:100%;}
+.copyright{display:block;overflow:hidden;padding:15px;text-align:center;font-family:Arial, Helvetica, sans-serif;font-size:10px;}
+.alert{background-color:#FCF8E3;border:1px solid #FBEED5;border-radius:4px 4px 4px 4px;color:#C09853;margin-bottom:20px;padding:8px 35px 8px 14px;text-shadow:0 1px 0 rgba(255, 255, 255, 0.5);}
+.alert-success{color:#468847;background-color:#dff0d8;border-color:#d6e9c6;}
+.alert-danger,.alert-error{color:#b94a48;background-color:#f2dede;border-color:#eed3d7;}
+.alert-info{background-color:#D9EDF7;border-color:#BCE8F1;color:#3A87AD;}
+.errorbox-position{position:fixed;width:100%;margin:auto;z-index:50;}
+.closebtn-errorbox{position:absolute;top:10px;right:15px;z-index:10000;}
+.content-errorbox{padding:13px 35px 13px 14px!important;position:absolute;text-align:center;top:0;width:100%;z-index:1000;}
+button.close{background:none repeat scroll 0 0 transparent;border:0 none;cursor:pointer;padding:0;}
+.navbar-brand{font-size:28px;}
+.connection-container .error-container{box-shadow:none;padding:35px 15px 20px 15px;margin-top:10%;border:1px solid #c4c4c4;border-radius:2px;position:absolute;left:50%;margin-left:-286px;width:550px;}
+.connection-container .error-container:after,.connect-error-container .error-container:before{content:none!important;}
+.connection-container .page-header{border-bottom:none;margin:0;padding-bottom:0;font-size:13px;line-height:20px;}
+.connection-container .error-container h1{color:#778695;font-weight:normal;font-size:6em;height:auto;background:none;padding:15px 10px;line-height:1em;text-align:center;width:100%;display:inline-block;border-bottom:none;}
+.connection-container .error-container h1 small{font-weight:700;font-size:0.3em;color:#999999;line-height:1em;text-align:center;}
+.connection-container .error-container h2{color:#778695;font-size:18px;font-weight:normal;text-align:center;width:100%;display:inline-block;margin-bottom:10px;margin-top:10px;}
+.cit-captcha-textbox{margin-top:2px;}
+.cit-captcha-response{font-size:18px;letter-spacing:10px;}
+@media (min-width:768px) {
+    #midd-container{min-height:350px;}
+}	
+@media (min-width:992px) {
+    #midd-container{min-height:400px;}
+}
+@media (min-width:1024px) {
+    #midd-container{min-height:450px;}
+}
